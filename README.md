@@ -10,7 +10,7 @@ You can set both local and global address of your home assistant and easily swit
 You can download latest version from [here](https://github.com/moallemi/home-assistant-mac/releases)
 
 ## Install
-Just uncompress the zip file, run `HomeAssistant-x.x.x.dmg` and drag `Home Assistant.dmg` to your `Applications` folder.
+Just uncompress the zip file, run `HomeAssistant-x.x.x.dmg` and drag `Home Assistant.app` to your `Applications` folder.
 
 License
 -------
